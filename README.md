@@ -1,5 +1,7 @@
 # QR Codes and Web Sockets
 
+[Deployed here](https://cs98-hackathing-1.web.app)
+
 ## What you built? 
 
 QR codes are a great way of linking physical resources to online platforms (or accessing desktop data from mobile platforms!). This hackathing is a demo in procedurally generating QR codes linked to database resources, and registering in real-time when they are scanned. This gives us a powerful authentication-free data link between either physical resources (printed QR codes) and dynamically generated online QR codes (like this site).
